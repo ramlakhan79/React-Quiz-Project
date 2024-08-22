@@ -26,7 +26,7 @@ export default function BetterNavbar() {
         borderBottom="1px solid"
         borderColor={useColorModeValue('gray.200', 'gray.700')}
       >
-        <Flex h={16} alignItems="center" justifyContent="space-between">
+        <Flex h={16} alignItems="center" justifyContent="flex-end">
           <IconButton
             bg="transparent"
             _hover={{
