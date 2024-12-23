@@ -13,14 +13,14 @@
 
 ## Live Demo
 
-[Quiz Web App Live](#) _(Add your deployed app link here)_
+[Quiz Web App Live](https://quiz-project-ten.vercel.app/)
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/React-Quiz-Project.git
+   git clone https://github.com/ramlakhan79/React-Quiz-Project.git
    ```
 
 2. Navigate to the project directory:
